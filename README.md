@@ -8,3 +8,5 @@ The goal of our project is to provide the best possible environmental solution f
 Group Members: Shriya Katta & Mihika Gupta
 
 Website repository (uses streamlit, separate): https://github.com/mihikag-tech/sylva 
+
+Works Cited: https://docs.google.com/document/d/1DqdY66JQJMKoMiujwgszlC6sEW-m1T3hJg55vXzZA4c/edit?usp=sharing 
